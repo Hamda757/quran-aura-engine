@@ -1,0 +1,33 @@
+{
+  "appId": "app_06",
+  "appName": "Surah Al-Ikhlas • Kids Bloom",
+  "theme": "light",
+  "primaryColor": "0xFFEC4899",
+  "surahNumber": 112,
+  "features": {
+    "arabicText": true,
+    "urduTranslation": true,
+    "audioPlayback": false,
+    "kidsMode": true
+  },
+  "content": [
+    {"verse": 1, "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ", "urdu": "آپ فرما دیجئے: وہ اللہ ایک ہے۔"},
+    {"verse": 2, "arabic": "اللَّهُ الصَّمَدُ", "urdu": "اللہ بے نیاز ہے (سب اس کے محتاج ہیں)۔"},
+    {"verse": 3, "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ", "urdu": "نہ اس کی کوئی اولاد ہے اور نہ وہ کسی کی اولاد ہے۔"}
+  ],
+  "wuduSteps": [
+    {"step": 1, "title": "Rinsing Mouth", "detail_ur": "تین بار اچھی طرح کلی کرنا۔"},
+    {"step": 2, "title": "Sniffing Water", "detail_ur": "تین بار ناک میں پانی ڈال کر بائیں ہاتھ سے صاف کرنا۔"}
+  ],
+  "prayerData": {
+    "zone": "Karachi, Southern Coastal",
+    "calculationMethod": "UISK - Standard",
+    "timings": {
+      "Fajr": "04:35 AM",
+      "Dhuhr": "12:32 PM",
+      "Asr": "05:12 PM",
+      "Maghrib": "07:22 PM",
+      "Isha": "08:50 PM"
+    }
+  }
+}

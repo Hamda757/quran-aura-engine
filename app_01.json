@@ -1,0 +1,20 @@
+{
+  "appId": "app_01",
+  "appName": "Quran Al-Fatiha • Bloom",
+  "theme": "light",
+  "primaryColor": "0xFF3182CE",
+  "features": {
+    "arabicText": true,
+    "urduTranslation": true,
+    "advancedNavigation": true,
+    "versesExplorerMatrix": true,
+    "kidsMode": true
+  },
+  "surahNumber": 1,
+  "language": "ur",
+  "port": 3001,
+  "content": [
+    {"verse": 1, "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "urdu": "شروع اللہ کے naam سے جو بڑا مہربان نہایت رحم والا ہے۔"},
+    {"verse": 2, "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", "urdu": "سب تعریفیں اللہ ہی کے لیے ہیں جو تمام جہانوں کا پالنے والا ہے۔"}
+  ]
+}

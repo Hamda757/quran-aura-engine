@@ -1,0 +1,32 @@
+{
+  "appId": "app_04",
+  "appName": "Surah An-Nasr — Interactive Play",
+  "theme": "light",
+  "primaryColor": "0xFFD97706",
+  "features": {
+    "arabicText": true,
+    "urduTranslation": true,
+    "audioPlayback": true,
+    "kidsMode": true
+  },
+  "surahNumber": 110,
+  "language": "ur",
+  "port": 3004,
+  "content": [
+    {
+      "verse": 1,
+      "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "urdu": "جب اللہ کی مدد اور فتح آ جاۓ۔"
+    },
+    {
+      "verse": 2,
+      "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "urdu": "اور آپ لوگوں کو دیکھ لیں کہ وہ اللہ کے دین میں فوج در فوج داخل ہو رہے ہیں۔"
+    },
+    {
+      "verse": 3,
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "urdu": "تو اپنے رب کی حمد کے ساتھ تسبیح کریں اور اس سے مغفرت مانگیں، بیشک وہ بڑا توبہ قبول کرنے والا ہے۔"
+    }
+  ]
+}

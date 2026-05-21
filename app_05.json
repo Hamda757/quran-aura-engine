@@ -1,0 +1,32 @@
+{
+  "appId": "app_05",
+  "appName": "Surah Al-Mulk • Cyber Royal",
+  "theme": "dark",
+  "primaryColor": "0xFF6366F1",
+  "surahNumber": 67,
+  "features": {
+    "arabicText": true,
+    "urduTranslation": true,
+    "audioPlayback": true,
+    "kidsMode": false
+  },
+  "content": [
+    {"verse": 1, "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ", "urdu": "بہت برکت والا ہے وہ جس کے ہاتھ میں بادشاہی ہے، اور وہ ہر چیز پر قادر ہے۔"},
+    {"verse": 2, "arabic": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا", "urdu": "جس نے موت اور زندگی کو پیدا کیا تاکہ تمہیں آزمائے کہ تم میں سے اچھے عمل کس کے ہیں۔"}
+  ],
+  "wuduSteps": [
+    {"step": 1, "title": "Intent (Niyyah)", "detail_ur": "دل میں وضو کی نیت کرنا اور بسم اللہ پڑھنا۔"},
+    {"step": 2, "title": "Washing Hands", "detail_ur": "دونوں ہاتھوں کو کلائیوں تک تین بار دھونا۔"}
+  ],
+  "prayerData": {
+    "zone": "Lahore, Pakistan",
+    "calculationMethod": "University of Islamic Sciences, Karachi (UISK)",
+    "timings": {
+      "Fajr": "04:02 AM",
+      "Dhuhr": "12:14 PM",
+      "Asr": "05:01 PM",
+      "Maghrib": "07:04 PM",
+      "Isha": "08:35 PM"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "appId": "app_07",
+  "appName": "Surah Al-Qadr • Midnight Velvet",
+  "theme": "dark",
+  "primaryColor": "0xFFF59E0B",
+  "surahNumber": 97,
+  "features": {
+    "arabicText": true,
+    "urduTranslation": true,
+    "audioPlayback": true,
+    "kidsMode": false
+  },
+  "content": [
+    {"verse": 1, "arabic": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ", "urdu": "بیشک ہم نے اس (قرآن) کو شبِ قدر میں اتارا ہے۔"},
+    {"verse": 2, "arabic": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ", "urdu": "اور آپ کو کیا معلوم کہ شبِ قدر کیا ہے؟"},
+    {"verse": 3, "arabic": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ", "urdu": "شبِ قدر ہزار مہینوں سے بہتر (اور افضل) ہے۔"}
+  ],
+  "wuduSteps": [
+    {"step": 1, "title": "Washing Face", "detail_ur": "پیشانی کے بالوں سے ٹھوڑی کے نیچے تک پورا چہرہ تین بار دھونا۔"},
+    {"step": 2, "title": "Washing Arms", "detail_ur": "دونوں بازوؤں کو کہنیوں سمیت تین بار دھونا۔"}
+  ],
+  "prayerData": {
+    "zone": "Islamabad / Rawalpindi",
+    "calculationMethod": "Spiritual Calendar North",
+    "timings": {
+      "Fajr": "03:58 AM",
+      "Dhuhr": "12:15 PM",
+      "Asr": "05:08 PM",
+      "Maghrib": "07:11 PM",
+      "Isha": "08:44 PM"
+    }
+  }
+}

@@ -1,2 +1,16 @@
-# quran-aura-engine
-A modular, cross-platform Quranic application engine built with Flutter. Features multi-theme support (Dark, Light, Executive), dynamic glassmorphic UI, audio playback integration, and a sophisticated procedural architecture that enables the rapid, parallel generation of multiple customized application instances from a single codebase.
+# adagds
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

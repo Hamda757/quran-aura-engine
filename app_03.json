@@ -1,0 +1,32 @@
+{
+  "appId": "app_03",
+  "appName": "Surah Al-Asr",
+  "theme": "dark",
+  "primaryColor": "0xFF1E88E5",
+  "features": {
+    "arabicText": true,
+    "urduTranslation": true,
+    "audioPlayback": true,
+    "kidsMode": false
+  },
+  "surahNumber": 103,
+  "language": "ur",
+  "port": 3002,
+  "content": [
+    {
+      "verse": 1,
+      "arabic": "وَالْعَصْرِ",
+      "urdu": "زمانے کی قسم!"
+    },
+    {
+      "verse": 2,
+      "arabic": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+      "urdu": "بیشک انسان سراسر نقصان میں ہے۔"
+    },
+    {
+      "verse": 3,
+      "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "urdu": "سواۓ ان لوگوں کے جو ایمان لاۓ اور انہوں نے اچھے کام کیے اور ایک دوسرے کو حق کی تاکید کی اور صبر کی وصیت کی۔"
+    }
+  ]
+}
